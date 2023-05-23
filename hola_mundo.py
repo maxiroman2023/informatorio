@@ -1,1 +1,2 @@
-print('Adiós mundo cruel')
+﻿print('Hola mundo')
+#versión optimista
